@@ -1,0 +1,5 @@
+C:\Users\walte\Desktop\Utn\Laboratorio2\Laboratorio2\Tp_laboratorio\TP-03\TP_03\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\walte\Desktop\Utn\Laboratorio2\Laboratorio2\Tp_laboratorio\TP-03\TP_03\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\walte\Desktop\Utn\Laboratorio2\Laboratorio2\Tp_laboratorio\TP-03\TP_03\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\walte\Desktop\Utn\Laboratorio2\Laboratorio2\Tp_laboratorio\TP-03\TP_03\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\walte\Desktop\Utn\Laboratorio2\Laboratorio2\Tp_laboratorio\TP-03\TP_03\Excepciones\obj\Debug\Excepciones.pdb

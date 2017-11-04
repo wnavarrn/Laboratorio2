@@ -1,0 +1,7 @@
+C:\Users\walte\Desktop\Utn\Laboratorio2\Laboratorio2\Tp_laboratorio\TP-03\TP_03\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\walte\Desktop\Utn\Laboratorio2\Laboratorio2\Tp_laboratorio\TP-03\TP_03\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\walte\Desktop\Utn\Laboratorio2\Laboratorio2\Tp_laboratorio\TP-03\TP_03\ClasesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\walte\Desktop\Utn\Laboratorio2\Laboratorio2\Tp_laboratorio\TP-03\TP_03\ClasesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\walte\Desktop\Utn\Laboratorio2\Laboratorio2\Tp_laboratorio\TP-03\TP_03\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\walte\Desktop\Utn\Laboratorio2\Laboratorio2\Tp_laboratorio\TP-03\TP_03\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\walte\Desktop\Utn\Laboratorio2\Laboratorio2\Tp_laboratorio\TP-03\TP_03\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb

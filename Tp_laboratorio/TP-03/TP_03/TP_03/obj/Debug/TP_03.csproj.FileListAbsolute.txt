@@ -1,0 +1,6 @@
+C:\Users\walte\Desktop\Utn\Laboratorio2\Laboratorio2\Tp_laboratorio\TP-03\TP_03\TP_03\bin\Debug\TP_03.exe.config
+C:\Users\walte\Desktop\Utn\Laboratorio2\Laboratorio2\Tp_laboratorio\TP-03\TP_03\TP_03\bin\Debug\TP_03.exe
+C:\Users\walte\Desktop\Utn\Laboratorio2\Laboratorio2\Tp_laboratorio\TP-03\TP_03\TP_03\bin\Debug\TP_03.pdb
+C:\Users\walte\Desktop\Utn\Laboratorio2\Laboratorio2\Tp_laboratorio\TP-03\TP_03\TP_03\obj\Debug\TP_03.csprojResolveAssemblyReference.cache
+C:\Users\walte\Desktop\Utn\Laboratorio2\Laboratorio2\Tp_laboratorio\TP-03\TP_03\TP_03\obj\Debug\TP_03.exe
+C:\Users\walte\Desktop\Utn\Laboratorio2\Laboratorio2\Tp_laboratorio\TP-03\TP_03\TP_03\obj\Debug\TP_03.pdb
